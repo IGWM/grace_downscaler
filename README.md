@@ -1,6 +1,9 @@
 grace_downscaler
 ==============================
 
+Research Paper: https://doi.org/10.3390/rs15092247
+
+
 Workflow for downscaling grace
 
 Project Organization
